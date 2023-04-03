@@ -47,11 +47,10 @@
 - Визначити 8-річне та 16-річне уявлення цілісного значення загального електричного опору трьох послідовно з'єднаних провідників при заданому постійному струмі та відомій напрузі на кожному провіднику.
 
 
-### Main.java
-<img src="https://github.com/Stickki/Palko/blob/d29a34b0285eef41f276ff3c4ff3b62827ac10d4/img/2_1.jpg"/>
-<img src="https://github.com/Stickki/Palko/blob/9fc2e65493a98a6a2e18dfe2cd514c69ec4ff367/img/2_3.jpg"/>
+### ResistorSerializationDemo.java
+<img src="https://github.com/Stickki/Palko/blob/186d95f0c1a84f6824021543bb19eb271ec0abef/img/2_1.jpg"/>
 
-### ResistanceDemo.java
-<img src="https://github.com/Stickki/Palko/blob/d29a34b0285eef41f276ff3c4ff3b62827ac10d4/img/2_2.jpg"/>
+### ResistDemo.java
+<img src="https://github.com/Stickki/Palko/blob/186d95f0c1a84f6824021543bb19eb271ec0abef/img/2_2.jpg"/>
 
 + [Main](#Palko_Vladyslav)
