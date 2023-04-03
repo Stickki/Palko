@@ -49,7 +49,7 @@
 
 ### Main.java
 <img src="https://github.com/Stickki/Palko/blob/d29a34b0285eef41f276ff3c4ff3b62827ac10d4/img/2_1.jpg"/>
-
+<img src="https://github.com/Stickki/Palko/blob/d29a34b0285eef41f276ff3c4ff3b62827ac10d4/img/2_3.jpg"/>
 ### ResistanceDemo.java
 <img src="https://github.com/Stickki/Palko/blob/d29a34b0285eef41f276ff3c4ff3b62827ac10d4/img/2_2.jpg"/>
 
