@@ -48,9 +48,9 @@
 
 
 ### Main.java
-<img src="https://github.com/Stickki/Palko/blob/2e6c8ec36dd01873dce5e929ec9627658e3635ca/img/2_1.jpg"/>
+<img src="https://github.com/Stickki/Palko/blob/d29a34b0285eef41f276ff3c4ff3b62827ac10d4/img/2_1.jpg"/>
 
 ### ResistanceDemo.java
-<img src="https://github.com/Stickki/Palko/blob/2e6c8ec36dd01873dce5e929ec9627658e3635ca/img/2_2.jpg"/>
+<img src="https://github.com/Stickki/Palko/blob/d29a34b0285eef41f276ff3c4ff3b62827ac10d4/img/2_2.jpg"/>
 
 + [Main](#Palko_Vladyslav)
