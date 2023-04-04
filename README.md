@@ -56,7 +56,7 @@
 
 + [Main](#Palko_Vladyslav)
 
-## Task03:
+## Task03
 
 ### Завдання:
 
