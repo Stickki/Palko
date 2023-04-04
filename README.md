@@ -2,6 +2,7 @@
 ---
 + [TASK01](#Task01)
 + [TASK02](#Task02)
++ [TASK03](#Task03)
 ---
 ## Task01
 
@@ -74,4 +75,4 @@
 
 <img src="https://github.com/Stickki/Palko/blob/7b3532f613f552aa13de6629c2a2243cd3e637c9/img/3_1.jpg"/>
 
-
++ [Main](#Palko_Vladyslav)
