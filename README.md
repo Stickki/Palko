@@ -49,11 +49,11 @@
 - Визначити 8-річне та 16-річне уявлення цілісного значення загального електричного опору трьох послідовно з'єднаних провідників при заданому постійному струмі та відомій напрузі на кожному провіднику.
 
 
-### ResistorSerializationDemo.java
-<img src="https://github.com/Stickki/Palko/blob/186d95f0c1a84f6824021543bb19eb271ec0abef/img/2_1.jpg"/>
+### ElectricResistanceDemo.java
+<img src="https://github.com/Stickki/Palko/blob/ebad4e7b6d2d3e9dc227e10f27d87ad4dd4bade1/img/2_1.jpg"/>
 
-### ResistDemo.java
-<img src="https://github.com/Stickki/Palko/blob/186d95f0c1a84f6824021543bb19eb271ec0abef/img/2_2.jpg"/>
+### ElectricResistanceTest.java
+<img src="https://github.com/Stickki/Palko/blob/ebad4e7b6d2d3e9dc227e10f27d87ad4dd4bade1/img/2_2.jpg"/>
 
 + [Main](#Palko_Vladyslav)
 
@@ -74,7 +74,7 @@
  
 ### Файли
 
-<img src="https://github.com/Stickki/Palko/blob/7b3532f613f552aa13de6629c2a2243cd3e637c9/img/3_1.jpg"/>
+<img src="https://github.com/Stickki/Palko/blob/ebad4e7b6d2d3e9dc227e10f27d87ad4dd4bade1/img/3_1.jpg"/>
 
 + [Main](#Palko_Vladyslav)
 
@@ -97,8 +97,12 @@
 
 ### Результат:
 
-<img src="https://github.com/Stickki/Palko/blob/607f12b2ba92b4e7ee3ecbda25581b9a49a1fc3d/img/4_1.jpg" />
+### Файли
 
-<img src="https://github.com/Stickki/Palko/blob/607f12b2ba92b4e7ee3ecbda25581b9a49a1fc3d/img/4_2.jpg" />
+<img src="https://github.com/Stickki/Palko/blob/ebad4e7b6d2d3e9dc227e10f27d87ad4dd4bade1/img/4_1.jpg" />
+
+### Main.java
+
+<img src="https://github.com/Stickki/Palko/blob/ebad4e7b6d2d3e9dc227e10f27d87ad4dd4bade1/img/4_2.jpg" />
 
 + [Main](#Palko_Vladyslav)
