@@ -4,6 +4,7 @@
 + [TASK02](#Task02)
 + [TASK03](#Task03)
 + [TASK04](#Task04)
++ [TASK05](#Task05)
 ---
 ## Task01
 
@@ -104,5 +105,31 @@
 ### Main.java
 
 <img src="https://github.com/Stickki/Palko/blob/ebad4e7b6d2d3e9dc227e10f27d87ad4dd4bade1/img/4_2.jpg" />
+
++ [Main](#Palko_Vladyslav)
+
+## Task05:
+
+### Завдання:
+
+1. Реалізувати можливість скасування (undo) операцій (команд).
+
+2. Продемонструвати поняття "макрокоманда"
+
+3. При розробці програми використовувати шаблон Singletone.
+
+4. Забезпечити діалоговий інтерфейс із користувачем.
+
+5. Розробити клас для тестування функціональності програми.
+
+### Файли:
+
+### Main.java
+
+<img src="https://github.com/Stickki/Palko/blob/ed376fa285078820f32a9681b270324968e34b56/img/5_1.jpg" />
+
+### ElectricResistanceTest.java
+
+<img src="https://github.com/Stickki/Palko/blob/ed376fa285078820f32a9681b270324968e34b56/img/5_2.jpg" />
 
 + [Main](#Palko_Vladyslav)
