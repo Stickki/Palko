@@ -5,6 +5,8 @@
 + [TASK03](#Task03)
 + [TASK04](#Task04)
 + [TASK05](#Task05)
++ [TASK06](#Task06)
+
 ---
 ## Task01
 
@@ -143,8 +145,10 @@
 
 ### Файли
 
-<img src="" />
+<img src="https://github.com/Stickki/Palko/blob/0a39ca6dfb0bd00f75f87a74a4db6ff5a22e3d37/img/6_1.jpg" />
 
 ### Main.java
 
-<img src="" />
+<img src="https://github.com/Stickki/Palko/blob/0a39ca6dfb0bd00f75f87a74a4db6ff5a22e3d37/img/6_2.jpg" />
+
++ [Main](#Palko_Vladyslav)
