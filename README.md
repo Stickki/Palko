@@ -136,7 +136,7 @@
 
 + [Main](#Palko_Vladyslav)
 
-## Task05:
+## Task06:
 
 ### Завдання:
 
